@@ -1,0 +1,6 @@
+[package]
+name = "rust-meetup"
+version = "0.1.0"
+authors = ["westeezy <element9889@gmail.com>"]
+
+[dependencies]
